@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a **Full Stack Development Student** at the **Brooklyn STEAM Center**. I am currently learning about frontend development. I am passionate about reading, coding, and movies. 
+
+Skills: 
+- HTML/CSS
+- Python
