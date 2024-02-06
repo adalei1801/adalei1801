@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 
 <!--
 **adalei1801/adalei1801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a **Full Stack Development Student** at the **Brooklyn STEAM Center**. I am currently learning about frontend development. I am passionate about reading, coding, and movies. 
+My name is Ashley and I am a **Full Stack Development Student** at the **Brooklyn STEAM Center**. I am currently learning about frontend development. I am passionate about reading, writing, coding, and movies. 
 
 Skills: 
 - HTML/CSS
