@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Ashley and I am a **Full Stack Development Student** at the **Brooklyn STEAM Center**. I am currently learning about front end development. I am passionate about reading, writing, coding, and movies. 
+My name is Ashley and I am a **First Year Student** at **Brandeis University**. I am currently working towards a Computer Science degree. I am passionate about reading, writing, coding, and movies. 
 
-Skills: 
+Skills/Certifications: 
 - HTML/CSS
 - Python
+- Project Management
+- Computational Thinking
