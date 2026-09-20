@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Ashley and I am a **First Year Student** at **Brandeis University**. I am currently working towards a Computer Science degree. I am passionate about reading, writing, coding, and movies. 
+My name is Ashley, and I am a **Second-Year Student** at **Brandeis University**. I am currently working towards a BA in Computer Science and English, with a Journalism Minor. I am passionate about reading, writing, coding, and movies. 
 
 Skills/Certifications: 
 - HTML/CSS
